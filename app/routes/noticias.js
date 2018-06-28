@@ -11,7 +11,5 @@ module.exports = function(app) {
 
         app.app.controllers.noticias.noticia(app, req, res);
 
-
-
     });
 };
